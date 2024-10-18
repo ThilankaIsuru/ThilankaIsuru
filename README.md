@@ -35,7 +35,7 @@ I'm Thilanka Isuru, an aspiring software engineer and a tech enthusiast from Sri
 
 Here are some of the projects I’ve been working on:
 
-- [**Caesar Cipher**](https://github.com/code50/175686138/blob/main/caesar%2Fcaesar.c) - A simple encryption algorithm implementation in C.
+- [**Caesar Cipher**](https://github.com/ThilankaIsuru/caesar-cipher) - A simple encryption algorithm implementation in C.
 - [**Cash Calculator**](https://github.com/code50/175686138/blob/main/cash%2Fcash.c) - Determines the minimum number of coins required to give change.
 - [**Credit Card Validator**](https://github.com/code50/175686138/blob/main/credit%2Fcredit.c) - A program to validate credit card numbers using Luhn’s Algorithm.
 - [**Readability Analyzer**](https://github.com/code50/175686138/blob/main/readability%2Freadability.c) - A tool to measure the grade level of a text.
