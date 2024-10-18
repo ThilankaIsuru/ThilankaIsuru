@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring IT Professional | Tech Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/72861994/102727009-d00faa00-42f3-11eb-9b83-80b35a7a5827.gif" alt="coding-gif" width="600" height="300">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding-gif" width="600" height="300">
 </p>
 
 ---
