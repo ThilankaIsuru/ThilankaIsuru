@@ -65,6 +65,7 @@ Here are some of the projects I’ve been working on:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ThilankaIsuru&show_icons=true&theme=radical" alt="Thilanka's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThilankaIsuru&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThilankaIsuru&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
 </p>
 
 ---
