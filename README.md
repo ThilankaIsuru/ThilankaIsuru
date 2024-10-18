@@ -63,9 +63,10 @@ Here are some of the projects I’ve been working on:
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThilankaIsuru&show_icons=true&theme=radical" alt="Thilanka's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThilankaIsuru&theme=radical" alt="GitHub Streak" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThilankaIsuru&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThilankaIsuru&layout=compact&theme=radical" alt="Top Languages" /><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=ThilankaIsuru&show_icons=true&theme=radical" alt="Thilanka's GitHub stats" /><br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThilankaIsuru&theme=radical" alt="GitHub Streak" />
+  
 </p>
 
 ---
