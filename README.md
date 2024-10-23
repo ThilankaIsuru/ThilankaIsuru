@@ -90,9 +90,9 @@ When I’m not coding, I enjoy:
     <img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub" width="48" height="48"/>
   </a>
   <a href="https://www.hackerrank.com/thilankaisuru201" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/10B981/hackerrank.png" alt="HackerRank" width="48" height="48"/>
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="HackerRank" width="48" height="48"/>
   </a>
   <a href="mailto:thilankaisururanasinghe@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="48" height="48"/>
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" width="48" height="48"/>
   </a>
 </p>
