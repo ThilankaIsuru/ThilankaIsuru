@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-I'm Thilanka Isuru, an aspiring software engineer and a tech enthusiast from Sri Lanka. Currently, I'm pursuing the **CS50x Introduction to Computer Science** and preparing to start my **Bachelor's degree in Information Systems** next year at the University of Colombo. My passion for programming and problem-solving motivates me to continuously learn and work on exciting projects.
+I'm Thilanka Isuru, an aspiring software developer and a tech enthusiast from Sri Lanka. Currently, I'm pursuing the **CS50x Introduction to Computer Science** and preparing to start my **Bachelor's degree in Information Systems** next year at the University of Colombo. My passion for programming and problem-solving motivates me to continuously learn and work on exciting projects.
 
 - 🌱 **Currently Learning**: C Programming, Python, Web Development, and Calculus.
 - 🎯 **Short-Term Goals**: Complete the CS50x course and dive deeper into programming projects.
