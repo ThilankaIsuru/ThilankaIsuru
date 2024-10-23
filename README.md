@@ -89,4 +89,7 @@ When I’m not coding, I enjoy:
   <a href="https://github.com/ThilankaIsuru" target="_blank">
     <img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub" width="48" height="48"/>
   </a>
+  <a href="mailto:thilankaisururanasinghe@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email" width="48" height="48"/>
+  </a>
 </p>
