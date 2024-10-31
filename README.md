@@ -20,12 +20,14 @@ I'm Thilanka Isuru, an aspiring software developer and a tech enthusiast from Sr
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="48" height="48"/>
   <img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="48" height="48"/>
 </p>
 
