@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Thilanka Isuru! 👋</h1>
-<h3 align="center">Aspiring IT Professional | Tech Enthusiast | Lifelong Learner</h3>
+<!--<h3 align="center">Aspiring IT Professional | Tech Enthusiast | Lifelong Learner</h3>-->
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding-gif" width="600" height="300">
@@ -7,7 +7,7 @@
 
 ---
 
-### 👨‍💻 About Me
+<!--### 👨‍💻 About Me
 
 I'm Thilanka Isuru, an aspiring software developer and a tech enthusiast from Sri Lanka. Currently, I'm pursuing the **CS50x Introduction to Computer Science** and preparing to start my **Bachelor's degree in Information Systems** next year at the University of Colombo. My passion for programming and problem-solving motivates me to continuously learn and work on exciting projects.
 
@@ -16,6 +16,7 @@ I'm Thilanka Isuru, an aspiring software developer and a tech enthusiast from Sr
 - 🚀 **Long-Term Goal**: Become a software engineer, focusing on full-stack development and AI.
 
 ---
+-->
 
 ### 🛠️ Languages & Tools
 
@@ -33,7 +34,7 @@ I'm Thilanka Isuru, an aspiring software developer and a tech enthusiast from Sr
 
 ---
 
-### 💡 Current Projects
+<!--### 💡 Current Projects
 
 Here are some of the projects I’ve been working on:
 
@@ -46,8 +47,9 @@ Here are some of the projects I’ve been working on:
 - [**Runoff Voting**](https://github.com/code50/175686138/blob/main/runoff%2Frunoff.c) - A voting system that simulates runoff elections.
 
 ---
+-->
 
-### 🎯 Goals & Certifications
+<!--### 🎯 Goals & Certifications
 
 - **Short-Term Goals**:
   - Enhance my **problem-solving** skills with more challenges on LeetCode and HackerRank.
@@ -61,6 +63,7 @@ Here are some of the projects I’ve been working on:
 - Attended a 2-day **AI, IoT, and Entrepreneurship Bootcamp** organized by the University of Moratuwa.
 
 ---
+-->
 
 ### 📈 GitHub Stats
 
